@@ -1,0 +1,10 @@
+.table-container {
+    display: inline-block; /* Faz com que o contêiner ocupe apenas o espaço necessário */
+    max-width: 100%; /* Garante que o contêiner não exceda a largura da tela */
+    padding: 16px; /* Opcional: Adiciona padding ao redor da tabela */
+  }
+  
+  table {
+    width: auto; /* Faz com que a tabela ocupe apenas o espaço necessário */
+  }
+  
